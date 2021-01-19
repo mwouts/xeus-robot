@@ -8,3 +8,5 @@ dependencies:
   - robotframework-jupyterlibrary
   - ipywidgets>=7.6
   - jupyterlab=3
+  - jupytext>=1.9.1
+
